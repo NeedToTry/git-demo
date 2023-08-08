@@ -10,3 +10,7 @@ ok
 gitignore
 gitcheckout
 git clear
+
+windows
+doc file
+error file
