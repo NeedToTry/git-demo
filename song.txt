@@ -7,10 +7,3 @@ ok
 12 coast
 
 -------------------------
-gitignore
-gitcheckout
-git clear
-
-windows
-doc file
-error file
